@@ -1,4 +1,5 @@
-.idea
 .env
 go-chatgpt-api
-undetected_chromedriver
+__debug*
+chat.openai.com.har
+.idea
